@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklegislation=self.webpackChunklegislation||[]).push([[3551],{5960:function(l){l.exports=JSON.parse('{"/legislationfork/blog/tags/notice":{"allTagsPath":"/legislationfork/blog/tags","slug":"/legislationfork/blog/tags/notice","name":"notice","count":1,"permalink":"/legislationfork/blog/tags/notice"}}')}}]);
